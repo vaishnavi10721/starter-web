@@ -6,9 +6,4 @@ This on first branch
 Welcome on FirstBranch
 Thanks
 Welcome on FirstBranch
-Shubham
-<<<<<<< HEAD
-Shubham2
-=======
-Vishwal
->>>>>>> firstbranch
+
