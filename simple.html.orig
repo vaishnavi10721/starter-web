@@ -5,7 +5,6 @@
 	</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	
-	Copyright added
 	Copyright added And Realwork content added
 	<style>
 		body {
@@ -19,10 +18,14 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
 			ANd many more to add
 			On the master
 			CONFLICT MSG 
+=======
+			Just some content added
 			as well as some more content to add
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
