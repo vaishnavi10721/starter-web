@@ -15,3 +15,4 @@ As stated above the main purpose is to show different parts of Git repository
 AS it is used to contribute
 kiugkg
 kiugkg
+Added copyrights to README.md file
